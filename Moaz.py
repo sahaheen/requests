@@ -35,8 +35,8 @@ if cmd not in cmds:
     sys.exit(1)
 
 print("\n==================================================================")
-print("|    ES File Explorer Open Port Vulnerability : CVE-2019-6447    |")
-print("|                Coded By : Nehal a.k.a PwnerSec                 |")
+print("|    ES File Explorer Open Port Vulnerability : CVE-2026-2024    |")
+print("|                Coded By : AZAZEL FAYOM                 |")
 print("==================================================================\n")
 
 header = {"Content-Type" : "application/json"}
